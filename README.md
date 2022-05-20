@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gorzeerah
 - 👀 I’m interested in learning stuffs.
-- 🌱 I’m currently learning front end developing
+- 🌱 I’m currently learning front end stuffs.
 - 💞️ I’m looking to collaborate on happiness
 - 📫 How to reach me still working on that.
 
